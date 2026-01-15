@@ -994,13 +994,13 @@ header.main-header .header-sticky.active {
 
 .hero-image img {
   width: 100%;
-  transform: scale(1.1) rotate(7deg);
+  transform: scale(1) rotate(7deg);
   aspect-ratio: 1 / 0.79;
   object-fit: cover;
   transition: all ease-in-out 0.3s;
 }
 .hero-image img:hover {
-  transform: scale(1) rotate(0deg);
+  transform: scale(1.1) rotate(0deg);
 }
 
 /************************************/
