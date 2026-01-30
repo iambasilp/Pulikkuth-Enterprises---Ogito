@@ -523,7 +523,10 @@ header.main-header .header-sticky.active {
   height: auto;
   padding: 0;
   margin: 0;
+
 }
+
+
 
 .main-menu .nav-menu-wrapper {
   flex: 1;
